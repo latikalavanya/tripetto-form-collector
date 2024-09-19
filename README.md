@@ -1,8 +1,4 @@
-The symbol `>` is often used to create block quotes or callout sections in Markdown. In your README, if you'd like to remove `>` while still presenting the content clearly, you can simply omit it and adjust the structure accordingly.
 
-Here’s the same content without `>`:
-
----
 
 # 📝 Tripetto Editor + Collector (React + Material-UI)
 
